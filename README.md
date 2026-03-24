@@ -1,5 +1,8 @@
 # Ai-with-Chucky-Colab-Notebooks
 
+### LTX2_3_T2V_I2V
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AICHUCKY/Ai-with-Chucky-Colab-Notebooks/blob/main/LTX2_3_T2V_I2V.ipynb)
+
 ### MatAnyone2 Colab
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AICHUCKY/Ai-with-Chucky-Colab-Notebooks/blob/main/MatAnyone2%20Colab.ipynb)
 
